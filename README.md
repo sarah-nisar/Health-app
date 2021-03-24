@@ -1,5 +1,5 @@
 # Health-app
-##Contributors
+## Contributors
 1. Sarah 
 2. Dhruvi
-##Tech Stack: Angular, Firebase
+##  Stack: Angular, Firebase
